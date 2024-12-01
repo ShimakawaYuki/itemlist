@@ -76,9 +76,8 @@ by using the `!openlootbox` command, as well as check the number of lootboxes yo
 You'll always get a new lootbox everyday.
 {%- endif -%}
 
-Extra lootboxes granted at a rate of 1 per $5 donation.
-
 <br/>
+Extra lootboxes granted at a rate of 1 per $5 donation.
 ## What is Karma?
 
 Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
