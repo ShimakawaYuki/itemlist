@@ -55,6 +55,7 @@ choices in these polls depend heavily on what's enabled in the mod.
 ## What Are Coins?
 
 Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+
 Donations will grant you more coins at a rate of 10 x donation amount (ex. $10 donation x 10 = 100 extra coins)
 
 {% if utils == true %}
