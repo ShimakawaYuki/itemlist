@@ -77,6 +77,7 @@ You'll always get a new lootbox everyday.
 {%- endif -%}
 
 <br/>
+
 Extra lootboxes granted at a rate of 1 per $5 donation.
 ## What is Karma?
 
