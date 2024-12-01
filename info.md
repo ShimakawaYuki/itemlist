@@ -56,7 +56,7 @@ choices in these polls depend heavily on what's enabled in the mod.
 
 Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
 
-Donations will grant you more coins at a rate of 10 x donation amount (ex. $10 donation x 10 = 100 extra coins)
+Donations will grant you more coins at a rate of 10 x donation amount (ex. $10 donation x 10 = 100 extra coins).
 
 {% if utils == true %}
 You'll notice the balance command may have some new emojis. If that's the case, here is an overview
@@ -76,6 +76,7 @@ by using the `!openlootbox` command, as well as check the number of lootboxes yo
 You'll always get a new lootbox everyday.
 {%- endif -%}
 
+Extra lootboxes granted at a rate of 1 per $5 donation.
 
 <br/>
 ## What is Karma?
