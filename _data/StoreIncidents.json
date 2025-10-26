@@ -76,11 +76,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "toxicfallout",
 		"price": 6500,
 		"karmatype": "Doom"
@@ -101,13 +96,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 10,
 		"karmatype": "Good"
 	},
 	{
@@ -226,27 +221,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -436,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 82
 }
